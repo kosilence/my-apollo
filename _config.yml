@@ -1,12 +1,12 @@
 menu:
     Blog: /
     Archive: /archives/
-    Weibo: http://weibo.com/sunchongsheng
-    GitHub: https://github.com/pinggod
+    Weibo: http://weibo.com/kosilence
+    GitHub: https://github.com/kosilence
     Rss: /atom.xml
 
-favicon: /favicon.png
-logo: /favicon.png
+favicon: /favicon.ico
+logo: /logo.png
 
 # Comment
 # e.g disqus: seansun
