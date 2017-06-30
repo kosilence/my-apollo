@@ -12,7 +12,7 @@ logo: /logo.png
 # e.g disqus: seansun
 github:
   owner: kosilence
-  repo: blog.cosin.tk
+  repo: my-blog
   oauth:
     client_id: a29417d1f351510ce909
     client_secret: 4a831dfc20286cdff8beb6cfe935583fa9c9b0ce

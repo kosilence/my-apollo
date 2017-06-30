@@ -11,7 +11,7 @@ meta(name="viewport", content="width=device-width, initial-scale=1")
 link(rel="icon", href=url_for(theme.favicon))
 link(rel="stylesheet", href=url_for("css/apollo.css"))
 link(rel="stylesheet", href=url_for("css/github-discuss.css"))
-script(src="https://imsun.github.io/gitment/dist/gitment.browser.js")
+script(src=url_for("js/gitment.browser.js"))
 
 - var xml = config.url + '/atom.xml'
     link(rel="search", type="application/opensearchdescription+xml", href=xml, title=config.title)
